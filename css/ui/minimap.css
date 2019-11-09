@@ -1,0 +1,15 @@
+#info {
+	position: absolute;
+	top: 1vw;
+	right: 1vw;
+	text-align: center;
+	z-index: 100;
+    display: block;
+    
+    height: 10vw;
+    width: 10vw;
+
+    background-color: bisque;
+    border: burlywood solid 0.5vw;
+    border-radius: 10vw;
+}
